@@ -1,1 +1,2 @@
-# odin-recipes
+A sample or template recipe website
+
